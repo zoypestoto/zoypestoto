@@ -1,12 +1,91 @@
-- 👋 Hi, I’m @zoypestoto
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-zoypestoto/zoypestoto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!doctype html>
+<html amp lang="id">
+<head>
+  <meta charset="utf-8">
+  <title>PESTOTO : Login Slot Toto Gacor Rekomendasi 1 Hari!</title>
+  <link rel="canonical" href="https://example.com/pestoto">
+  <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
+  <meta name="description" content="PESTOTO – Login & daftar permainan slot toto. Rekomendasi gacor hari ini, aman & cepat.">
+  <script async src="https://cdn.ampproject.org/v0.js"></script>
+  <style amp-boilerplate>
+    body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both; -moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both; -ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both; animation:-amp-start 8s steps(1,end) 0s 1 normal both}
+    @-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+    @-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+    @-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+    @-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+    @keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}
+  </style>
+  <noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+  <style amp-custom>
+    :root{
+      --bg:#0b0f17;
+      --card:#121826;
+      --brand:#17e3a6;
+      --text:#e6edf3;
+      --muted:#98a2b3;
+      --btn:#1f2937;
+      --btnHover:#2b3649;
+    }
+    html,body{background:var(--bg); color:var(--text); font-family:system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Inter,Arial,sans-serif;}
+    .wrap{min-height:100svh; display:flex; align-items:center; justify-content:center; padding:32px;}
+    .card{width:min(680px,100%); background:linear-gradient(180deg, rgba(23,227,166,.06), transparent 50%) , var(--card); border-radius:20px; padding:28px; box-shadow:0 10px 30px rgba(0,0,0,.35);}
+    header{display:flex; align-items:center; justify-content:center; gap:10px; margin-bottom:12px;}
+    .logo{
+      display:inline-flex; align-items:center; gap:10px; padding:8px 14px; border-radius:999px; background:rgba(23,227,166,.12); border:1px solid rgba(23,227,166,.35);
+      font-weight:800; letter-spacing:.5px; text-transform:uppercase; color:var(--brand);
+    }
+    h1{font-size:clamp(22px,4.2vw,34px); line-height:1.2; margin:18px 0 10px; text-align:center;}
+    p.lead{color:var(--muted); text-align:center; margin:0 0 18px; font-size:clamp(14px,2.6vw,16px)}
+    .cta{display:flex; gap:12px; justify-content:center; flex-wrap:wrap; margin-top:10px}
+    .btn{appearance:none; border:1px solid rgba(255,255,255,.16); background:var(--btn); color:var(--text); padding:12px 18px; border-radius:12px; font-weight:700; text-decoration:none; transition:.2s transform ease, .2s background ease;}
+    .btn:hover{background:var(--btnHover); transform:translateY(-1px)}
+    .btn.primary{background:var(--brand); color:#0a0f14; border-color:rgba(23,227,166,.6)}
+    .btn.primary:hover{filter:brightness(.95)}
+    .badges{display:flex; justify-content:center; gap:10px; margin-top:16px; flex-wrap:wrap}
+    .badge{font-size:12px; color:#9fb2c8; border:1px dashed rgba(159,178,200,.35); padding:6px 10px; border-radius:999px}
+    footer{margin-top:18px; text-align:center; font-size:12px; color:#7b8796}
+  </style>
+  <script type="application/ld+json">
+  {
+    "@context":"https://schema.org",
+    "@type":"WebSite",
+    "name":"PESTOTO",
+    "url":"https://example.com/pestoto",
+    "potentialAction":{"@type":"SearchAction","target":"https://example.com/pestoto?q={search_term_string}","query-input":"required name=search_term_string"}
+  }
+  </script>
+</head>
+<body>
+  <main class="wrap" role="main">
+    <section class="card" aria-labelledby="title">
+      <header>
+        <div class="logo" aria-label="PESTOTO">PESTOTO</div>
+      </header>
+      <h1 id="title">PESTOTO : Login Slot Toto Gacor Rekomendasi 1 Hari!</h1>
+      <p class="lead">Platform rekomendasi permainan slot & toto. Keamanan terenkripsi, proses cepat. Jika sudah, klik tombol di bawah untuk masuk atau daftar.</p>
+      <div class="cta" role="group" aria-label="Tombol aksi">
+        <!-- Ganti tautan di bawah sesuai URL tujuan -->
+        <a class="btn primary" href="https://example.com/login" rel="nofollow noopener">Login</a>
+        <a class="btn" href="https://example.com/register" rel="nofollow noopener">Daftar</a>
+      </div>
+      <div class="badges" aria-hidden="true">
+        <span class="badge">Enkripsi Aman</span>
+        <span class="badge">Rekomendasi Harian</span>
+        <span class="badge">24/7</span>
+      </div>
+      <footer>
+        © <span id="year">2025</span> PESTOTO. Seluruh hak cipta dilindungi.
+      </footer>
+    </section>
+  </main>
+  <script async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js"></script>
+  <!-- Contoh konfigurasi analitik (opsional) -->
+  <!--
+  <amp-analytics type="gtag" data-credentials="include">
+    <script type="application/json">
+      {"vars":{"gtag_id":"G-XXXXXXXXXX","config":{"G-XXXXXXXXXX":{"groups":"default"}}}}
+    </script>
+  </amp-analytics>
+  -->
+</body>
+</html>
